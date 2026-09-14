@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./banner.png" alt="Tomatectonix" width="100%">
+</p>
+
+
 # Hola, soy Tomatectonix 
 
 💻 Programador en formación | C# · .NET  
