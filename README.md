@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hola, soy Tomatectonix 
 
-<!--
-**tomatectonix/tomatectonix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Programador en formación | C# · .NET  
+🔐 Interesado en desarrollo web y ciberseguridad
 
-Here are some ideas to get you started:
+## Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+En mayo de 2026 nació mi curiosidad por la programación y desde entonces
+comencé a aprender de forma autodidacta.
+
+Actualmente estoy enfocándome en C# y .NET, construyendo mis bases mediante
+la práctica, pequeños proyectos y experimentación.
+
+Mi objetivo es avanzar progresivamente hacia el desarrollo web y,
+posteriormente, profundizar en ciberseguridad.
+
+## Actualmente aprendiendo
+
+- C#
+- .NET
+- Git & GitHub
+- Fundamentos de programación
+- Desarrollo web
+
+## Mi camino
+
+```text
+C# y fundamentos
+      ↓
+Proyectos y práctica
+      ↓
+Desarrollo web
+      ↓
+Aplicaciones y APIs
+      ↓
+Ciberseguridad
