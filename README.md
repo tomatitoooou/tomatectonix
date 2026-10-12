@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="Tomatectonix" width="100%">
+  <img src="./nuevobanner.png" alt="Tomatectonix" width="100%">
 </p>
 
 
