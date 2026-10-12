@@ -5,37 +5,29 @@
 
 # Hola, soy Tomatitooou
 
-💻 Programador en formación | C# · .NET  
+💻 QA tester | SQL | programador C# · .NET  
 🔐 Interesado en desarrollo web y ciberseguridad
 
 ## Sobre mí
 
-En mayo de 2026 nació mi curiosidad por la programación y desde entonces
+En marzo de 2026 nació mi curiosidad por la programación eh QA y desde entonces
 comencé a aprender de forma autodidacta.
 
-Actualmente estoy enfocándome en C# y .NET, construyendo mis bases mediante
-la práctica, pequeños proyectos y experimentación.
+Actualmente estoy enfocándome en QA y SQL , construyendo mis bases mediante
+la práctica, aprender eh entender los conseptos mas que enfocarme por conseguir certificados.
 
 Mi objetivo es avanzar progresivamente hacia el desarrollo web y,
 posteriormente, profundizar en ciberseguridad.
 
-## Actualmente aprendiendo
+## Actualmente aprendiendo de forma progresiva 
 
 - C#
 - .NET
-- Git & GitHub
-- Fundamentos de programación
+- profundizar mas en programacion 
 - Desarrollo web
 
-## Mi camino
+# Mis Objetivos 
+son aprender de lo que me gusta y rendir en eso lo mas que pueda 
+Formarme profecionalmente de lo que me gusta 
+y sobre todo saber de que cosas soy capas de hacer
 
-```text
-C# y fundamentos
-      ↓
-Proyectos y práctica
-      ↓
-Desarrollo web
-      ↓
-Aplicaciones y APIs
-      ↓
-Ciberseguridad
