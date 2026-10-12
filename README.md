@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Nuevobanner.png" alt="Tomatitooou" width="110%">
+  <img src="./Nuevobanner.png" alt="Tomatitooou" width="150%">
 </p>
 
 
