@@ -1,6 +1,6 @@
 <table align="center" width="85%"><tr valign="middle"><td align="left">
 
-<h1>TOMAS BUSTOS <h1>
+      v v.            <h1>TOMAS BUSTOS <h1>
   
 ---
 <b>💻 QA tester | SQL | programador C# · .NET 
