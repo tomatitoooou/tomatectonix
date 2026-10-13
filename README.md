@@ -15,7 +15,8 @@ la práctica, aprender eh entender los conseptos mas que enfocarme por conseguir
 
 Mi objetivo es avanzar progresivamente hacia el desarrollo web y,
 posteriormente, profundizar en ciberseguridad.
----
+
+
 ## Actualmente aprendiendo de forma progresiva 
 ---
 - C#
