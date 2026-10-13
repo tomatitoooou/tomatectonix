@@ -7,7 +7,7 @@
 <b>Interesado en desarrollo web y ciberseguridad<b>
 
 ---
-## Sobre mí
+ Sobre mí
 
 ```
 En marzo de 2026 nació mi curiosidad por la programación eh QA y desde entonces
@@ -19,14 +19,14 @@ la práctica, aprender eh entender los conseptos mas que enfocarme por conseguir
 Mi objetivo es avanzar progresivamente hacia el desarrollo web y,
 posteriormente, profundizar en ciberseguridad.
 ```
-## Actualmente aprendiendo de forma progresiva 
+Actualmente aprendiendo de forma progresiva 
 ```
 - C#
 - .NET
 - profundizar mas en programacion 
 - Desarrollo web
 ```
-# Mis Objetivos 
+Mis Objetivos 
 son aprender de lo que me gusta y rendir en eso lo mas que pueda 
 Formarme profecionalmente de lo que me gusta 
 y sobre todo saber de que cosas soy capas de hacer
