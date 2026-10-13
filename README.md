@@ -10,14 +10,14 @@
  Sobre mí
 
 ```
-En marzo de 2026 nació mi curiosidad por la programación eh QA y desde entonces
-comencé a aprender de forma autodidacta.
+<b>En marzo de 2026 nació mi curiosidad por la programación eh QA y desde entonces
+comencé a aprender de forma autodidacta.<b>
 
-Actualmente estoy enfocándome en QA y SQL , construyendo mis bases mediante
-la práctica, aprender eh entender los conseptos mas que enfocarme por conseguir certificados.
+<b>Actualmente estoy enfocándome en QA y SQL , construyendo mis bases mediante
+la práctica, aprender eh entender los conseptos mas que enfocarme por conseguir certificados.<b>
 
-Mi objetivo es avanzar progresivamente hacia el desarrollo web y,
-posteriormente, profundizar en ciberseguridad.
+<b>Mi objetivo es avanzar progresivamente hacia el desarrollo web y,
+posteriormente, profundizar en ciberseguridad.<b>
 ```
 Actualmente aprendiendo de forma progresiva 
 ```
