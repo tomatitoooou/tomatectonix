@@ -1,11 +1,10 @@
 <table align="center" width="85%"><tr valign="middle"><td align="left">
 
-## <h1>TOMAS BUSTOS <h1>
+### <h1>TOMAS BUSTOS <h1>
   
----
 <b>💻 QA tester | SQL | programador C# · .NET 
 🔐 Interesado en desarrollo web y ciberseguridad <b>
----
+
 ---
 ## Sobre mí
 ---
