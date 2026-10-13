@@ -1,5 +1,6 @@
+<table align="center" width="85%"><tr valign="middle"><td align="left">
 
-# Hola, soy Tomatitooou
+### Hola, soy Tomatitooou
 ---
 💻 QA tester | SQL | programador C# · .NET 
 🔐 Interesado en desarrollo web y ciberseguridad
@@ -28,4 +29,3 @@ posteriormente, profundizar en ciberseguridad.
 son aprender de lo que me gusta y rendir en eso lo mas que pueda 
 Formarme profecionalmente de lo que me gusta 
 y sobre todo saber de que cosas soy capas de hacer
-
