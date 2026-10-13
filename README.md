@@ -2,8 +2,8 @@
 
 ### <h1>TOMAS BUSTOS <h1>
   
-<b>💻 QA tester | SQL | programador C# · .NET <b> 
-<b> 🔐 Interesado en desarrollo web y ciberseguridad <b>
+<b>💻 QA tester | SQL | programador C# · .NET<b>
+<b>🔐 Interesado en desarrollo web y ciberseguridad<b>
 
 ---
 ## Sobre mí
