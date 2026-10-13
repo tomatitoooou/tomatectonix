@@ -5,10 +5,10 @@
 🔐 Interesado en desarrollo web y ciberseguridad
 ---
 ## Sobre mí
-•••
+
 En marzo de 2026 nació mi curiosidad por la programación eh QA y desde entonces
 comencé a aprender de forma autodidacta.
-•••
+
 Actualmente estoy enfocándome en QA y SQL , construyendo mis bases mediante
 la práctica, aprender eh entender los conseptos mas que enfocarme por conseguir certificados.
 
