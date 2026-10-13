@@ -4,9 +4,9 @@
 💻 QA tester | SQL | programador C# · .NET 
 🔐 Interesado en desarrollo web y ciberseguridad
 ---
-----
+---
 ## Sobre mí
-----
+---
 En marzo de 2026 nació mi curiosidad por la programación eh QA y desde entonces
 comencé a aprender de forma autodidacta.
 
