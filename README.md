@@ -1,5 +1,5 @@
 <table align="center" width="85%"><tr valign="middle"><td align="left">
-# Tomás Bustos
+<H1> Tomás Bustos</h1>
 
  **QA Tester** · SQL · Programador C# & .NET  
 Explorando el camino hacia el desarrollo web y la ciberseguridad
