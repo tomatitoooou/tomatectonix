@@ -1,31 +1,31 @@
 <table align="center" width="85%"><tr valign="middle"><td align="left">
+# Tomás Bustos
 
- <h1>TOMAS BUSTOS <h1>
-  
-<b> QA tester | SQL | programador <b>
-
-<b>Interesado en desarrollo web y ciberseguridad<b>
+ **QA Tester** · SQL · Programador C# & .NET  
+Explorando el camino hacia el desarrollo web y la ciberseguridad
 
 ---
- Sobre mí
 
-<b>En marzo de 2026 nació mi curiosidad por la programación eh QA y desde entonces
-comencé a aprender de forma autodidacta.<b>
+### Sobre mí
 
-<b>Actualmente estoy enfocándome en QA y SQL , construyendo mis bases mediante
-la práctica, aprender eh entender los conseptos mas que enfocarme por conseguir certificados.<b>
+Desde marzo de 2026 me formo de manera autodidacta en QA y programación, con foco en entender los conceptos a fondo antes que en acumular certificados.
 
-<b>Mi objetivo es avanzar progresivamente hacia el desarrollo web y,
-posteriormente, profundizar en ciberseguridad.<b>
+Mi meta es simple: avanzar con bases sólidas hacia el desarrollo web, y más adelante profundizar en ciberseguridad.
 
-Actualmente aprendiendo de forma progresiva 
-```
-- C#
-- .NET
-- profundizar mas en programacion 
-- Desarrollo web
-```
-Mis Objetivos 
-son aprender de lo que me gusta y rendir en eso lo mas que pueda 
-Formarme profecionalmente de lo que me gusta 
-y sobre todo saber de que cosas soy capas de hacer
+### Actualmente aprendiendo
+
+| Área | Tecnología |
+|---|---|
+| Lenguaje | C# / .NET |
+| Base de datos | SQL |
+| QA | Manuales y automatizados a profundidad |
+
+###  Objetivos
+
+- Rendir al máximo en lo que me apasiona
+- Formarme profesionalmente con bases reales, no solo papeles
+- Saber con certeza de qué soy capaz
+
+---
+
+*En constante aprendizaje — este perfil se actualiza a medida que avanzo.*
